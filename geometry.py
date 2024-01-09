@@ -40,9 +40,6 @@ class GuiRectangle(Rectangle):
         canvas.forward(self.upright.y - self.lowleft.y)
 
 
-
-
-
 class GuiPoint(Point):
     def draw(self,canvas,size=5,color='red'):
         canvas.penup()
