@@ -1,2 +1,4 @@
 Welcome to repo
-(code_flow.jpg)
+
+<img src="code_flow.jpg" alt="Code Flow">
+
