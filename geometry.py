@@ -53,7 +53,7 @@ class GuiPoint(Point):
 
 if __name__=="__main__":
 
-    my_rectangle = GuiRectangle(Point(randint(0, 50), randint(0, 50)), Point(randint(50, 90), randint(50, 90)))
+    my_rectangle = GuiRectangle(Point(randint(0, 100), randint(0, 100)), Point(randint(150, 190), randint(150, 190)))
 
     print("rectangle coordinates: ", my_rectangle.lowleft.x, ",", my_rectangle.lowleft.y, "and", my_rectangle.upright.x, ",", my_rectangle.upright.y)
 

@@ -1,1 +1,1 @@
-Welcome to stupid repo
+Welcome to repo
